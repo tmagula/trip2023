@@ -1,0 +1,13 @@
+body{
+    background-image:url('photos/bg.jpg');
+    background-repeat: no-repeat;
+	background-position: right top; 
+}
+footer {
+	color: #CCCCCC;
+	background-color: #666666;
+	text-align: center;
+	font-size: 0.7em;
+    float: right;
+    width: 100%;
+}
